@@ -1,0 +1,4 @@
+prompt-toolkit==3.0.52
+geopy==2.4.1
+nostr-sdk==0.44.0
+geohash2
