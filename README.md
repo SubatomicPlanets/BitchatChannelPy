@@ -10,7 +10,7 @@ A simple Python script that is compatible with the Bitchat IOS and Android apps
 - The best feature of them all: Simplicity. The entire script is just 150 lines long!
 
 > [!NOTE]
-> Direct messages, Bluetooth mesh, and TOR are **not** supported.
+> Direct messages, Bluetooth mesh, and built-in TOR are **not** supported.
 
 
 ## How to run:
